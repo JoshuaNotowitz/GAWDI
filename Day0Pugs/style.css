@@ -1,6 +1,7 @@
 .center  {
     text-align: center;
-    width: 400px;
+    margin-left: 20%;
+    margin-right:20%;
     
 }
 .primary {
@@ -11,4 +12,9 @@
 }
 img {
     height: 100px;
+}
+h1 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 50px;
+	text-align: center;
 }
