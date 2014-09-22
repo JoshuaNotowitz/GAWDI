@@ -1,0 +1,14 @@
+.center  {
+    text-align: center;
+    width: 400px;
+    
+}
+.primary {
+    font-family: 'Oswald', sans-serif;
+}
+.secondary {
+    font-family: 'Dosin', sans-serif;
+}
+img {
+    height: 100px;
+}
